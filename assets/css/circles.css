@@ -1,0 +1,13 @@
+@font-face { font-family: avantgarde; src: url('/assets/fonts/AVANTM_0.ttf'); }
+
+canvas {
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
